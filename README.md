@@ -74,11 +74,16 @@
 
 ### WebAssembly
 - [ ] 对wasm现状的了解
+- [ ] wasi的优势
   - [x] 了解什么是wasm
   - [ ] 了解国内外wasm应用的项目与其状态
   - [ ] 了解几项wasm成功的应用
-- [ ] golang wasm
 - [ ] rust wasm
+  - [ ] Hello World
+  - [ ] rust wasm开发与在浏览器上运行
+  - [ ] rust wasi开发与运行
+- [ ] golang wasm
+
 ### 物联网
 - [ ] 对物联网现状的了解
 
